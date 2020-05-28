@@ -54,3 +54,10 @@
 .resetMsg {
     color: black;
 }
+
+.icon {
+    width: 40px;
+    fill: none;
+    stroke:#896EAF; 
+    stroke-width: 2px;
+}
